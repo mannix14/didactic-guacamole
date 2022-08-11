@@ -2,4 +2,4 @@
 
 initial repo for test project
 
-really fast tutorial
+might as well add a practice html tables.
